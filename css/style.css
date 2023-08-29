@@ -1,0 +1,53 @@
+.topo {
+    padding: 20px 0;
+    position: relative;
+}
+.nav .menu-a {
+    color: black;
+} 
+
+.nav .menu-a:hover {
+    color: white;
+    background-color: black;
+    
+} 
+.banner_topo {
+    background-color:#f0f0f0;
+    padding: 20px;
+}
+
+.banner_topo .img-destaque{
+max-width: 300px;
+}
+
+.cor_tema{
+    color:#202a65 ;
+}
+
+.secao_2 {
+    padding: 30px 0;
+}
+
+.banner_topo_2 {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+
+}
+
+.cor_pg {
+    padding: 1rem;
+}
+
+.h1 {
+    margin-left: 2%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+}
